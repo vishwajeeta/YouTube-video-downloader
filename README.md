@@ -24,3 +24,12 @@
 - TikTok
 
 - News sites, adult sites, etc.
+
+## how to run:-
+
+```
+py <file_name>.py
+```
+
+- `download_file.py`&`download_file1.py` only download video without audio (provides video quality option)
+- `high-quality_audio_video.py` download high quality video (don't provide video quality option)
