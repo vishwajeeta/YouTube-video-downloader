@@ -1,0 +1,5 @@
+# Ignore everything in the downloads folder
+downloads/*
+
+# Except the folder itself (optional - if you want to keep the empty folder)
+!downloads/.gitkeep
