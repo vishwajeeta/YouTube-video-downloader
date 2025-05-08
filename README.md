@@ -23,4 +23,4 @@
 
 - TikTok
 
-News sites, adult sites, etc.
+- News sites, adult sites, etc.
